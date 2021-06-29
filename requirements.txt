@@ -1,0 +1,4 @@
+paho-mqtt
+adafruit_ssd1306
+RPi.GPIO
+gpiozero
